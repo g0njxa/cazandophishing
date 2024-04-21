@@ -174,6 +174,20 @@ www.app-bbva-soporte.com/es/login 10*
 www.app-bbva-seguridad.com/es/login 10*
 www.bbva-cliente-app.com/es/login 10*
 bbva-actualiza-app-segura.com/login 10*
+www.bbva-app-informa.com/es/login 11*
+www.bbva-info-app.com/es/login 11*
+bbva-es-appactiva.com 11*
+app-bbva-esp.com 11*
+www.app-bbva-web.com/es/login 11*
+www.bbva-informa-web.com/es/login 11*
+www.bbva-info-soportes.com/es/login 11*
+bbva.es-seguridad-apps.com/es/login 11*
+www.apps-bbva-cliente.com/es/login 11*
+www.compilar-enlace.com 11*
+web.bbva-es-infoapp.com 11*
+www.bbva-inicio-aviso.com/es/login 11*
+www.soporte-bbva-apps.com/es/login 11*
+www.soporte-bbva-info.com/es/login 11*
 
 es.bancosabadell-usuarios.com 2*
 es.bancsabadell-apps-inicio.com 2*
@@ -232,6 +246,7 @@ www.bancosabadell-app-es.com 9*
 www.bancsabadell-dispositivos.com 9*
 www.bancosabadell-apps.com/es/login 9*
 sabadell.banca-movil.com/login 10*
+www.app-bancsabadell-es.com/es/login 11*
 
 caixabank.caixa-empresas.com/login
 caixabank.empresas-dispositivos/login
@@ -271,6 +286,7 @@ www.particular-caixabank.com 9*
 www.inicio-caixabank-app.com/es/login 10*
 caixabank.info-caixa.com 10*
 caixabank.caixa-app-avisos.com 10*
+www.caixabank-app-info.com 11*
 
 empresas.bancosantander-avisos.com/login
 es.bancosantander-app-inicio.com/login
@@ -341,6 +357,11 @@ www.apps-bancosantander.com 9*
 www.app-santander-inicio.com 9*
 www.app-santander-clientes.com 9*
 www.santander-app-avisos.com/login 10*
+www.santander-es-app.com/es/login 11*
+santander-info-app.com 11*
+santander-esp-seguridad.com 11*
+es-santander-web.com 11*
+www.app-santander-es.com/es/login 11*
 
 www.bancamarch-esp-inicios.com/login
 es.bancamarch-inicio-web.com/login
@@ -366,6 +387,12 @@ es.bancamarch-app-aviso.com/login 9*
 www.es-bancamarch-aviso.com/login 9*
 www.es-bancamarch-app.com/login 9*
 es.bancamarch-web-avisos.com/login 10*
+www.bancamarch-avisos-app.com/login 11*
+es.bancamarch-web-seguridad.com/login 11*
+www.bancamarch-inicio.com/login 11*
+es.apps-bancamarch.com/login 11*
+www.inicio-bancamarh-app.com/login 11*
+es.bancamarch-inicio-aviso.com/login 11*
 
 abanca.empresas-dispositivo.com/WELE200M_Logon_Ini.aspx 2*
 es.abanca-apps-cliente.com/WELE200M_Logon_Ini.aspx
@@ -439,6 +466,12 @@ www.abanca-info-app.com/es/WELE200M_Logon_Ini.aspx 10*
 www.abanca-app-informa.com/es/WELE200M_Logon_Ini.aspx 10*
 www.abanca-cliente-apps.com/es/WELE200M_Logon_Ini.aspx 10*
 www.abanca-clientes-apps.com/es/WELE200M_Logon_Ini.aspx 10*
+abanca.empresas-info.com/WELE200M_Logon_Ini.aspx 11*
+www.abanca-particulares.com/es/WELE200M_Logon_Ini.aspx 11*
+www.inicio-abanca-apps.com/WELE200M_Logon_Ini.aspx 11*
+www.inicio-abanca-info.com/es/WELE200M_Logon_Ini.aspx 11*
+www.inicios-abanca-app.com/es/WELE200M_Logon_Ini.aspx 11*
+abanca-acceso.com 11*
 
 es.bankinter-apps-cliente.com/login
 es.bankinter-cliente-app.com/login 2*
@@ -496,6 +529,14 @@ www.app-bankinter-inicio.com/es/login 10*
 www.bankinter-es-empresa.com/login 10*
 es.bankinter-app-informa.com/login 10*
 www.app-bankinter-web.com/login 10*
+www.bankinter-info.com/login 11*
+es.bankinter-info-cliente.com/login 11*
+empresas.bankinter-secure-es.com/login 11*
+app-bankinter-inicios.com 11*
+www.esp-bankinter-app.com/es/login 11*
+www.app-bankinter-inicios.com/es/login 11*
+www.inicio-bankinter-app.com/es/login 11*
+www.inicios-bankinter-app.com/es/login 11*
 
 es.app-laboralkutxa-clientes.com/login
 www.esp-laboralkutxa-clientes.com/login
@@ -523,6 +564,7 @@ es.kutxabank-cliente-inicios.com/login 3*
 info-kutxabank.com/home.php 4*
 es.kutxabank-seguridad.com/login 4*
 www.app-kutxabank.com 9*
+laboral.kutxa-app.com/es/login 11*
 
 es.eurocaja-app-clientes.com/login
 es.eurocaja-apps-soporte.com/login
@@ -530,6 +572,8 @@ es.eurocaja-cliente-inicio.com/login 2*
 eurocaja-dispositivos.com/home.php 3*
 www.eurocaja-inicio-app.com/login 10*
 www.eurocaja-app-inicios.com/login 10*
+www.apps-eurocaja.com/login 11*
+es.eurocaja-inicio.com/login 11*
 
 es.cajasur-app-cliente.com/login
 cajasur-clientes-es.com 6*
@@ -540,6 +584,7 @@ www.cajasur-es-clientes.com/login 7*
 www.es-cajasur-empresas.com/login 7*
 www.cajasur-apps.com/es/login 8*
 www.cajasur-app-inicio.com 9*
+www.cajasur-es-inicio.com/es/login 11*
 
 es.cajalngenieros-inicio.com/login
 www.cajalngenieros-inicio-es.com/login
@@ -554,6 +599,8 @@ www.app-caixaenginyers.com 9*
 www.caixaenginyers-apps.com 9*
 www.cajaingenieros-web.com 10*
 www.cajaingenieros-apps.com 10*
+caixa.enginyers-atencio.com/login 11*
+www.web-caixaenginyers.com/es/login 11*
 
 es.mediolanum-clientes-inicio.com/login
 www.es-mediolanum-alertas.com/login
@@ -599,6 +646,10 @@ es.openbank-soporte-app.com/login 10*
 es.openbank-web-cliente.com/login 10*
 openbank.es-app-gestiones.com/login 10*
 www.openbank-web-app.com/login 10*
+es.openbank-inicio-apps.com/login 11*
+www.inicio-openbank-app.com/en/login 11*
+openbank-acceso.com/index.php 11*
+www.app-openbank-inicio.com/es/login 11*
 
 www.ruralvia-esp-soportes.com/login
 www.bancocooperativo-es.com/login 2*
@@ -609,6 +660,8 @@ ruralvia.es-cajarural.com/login 6*
 app-operativa.com/login 9*
 gestion-persona.com/login 9*
 aviso-rural.com/login 10*
+bancadigital-ruralvia.com 11*
+ruralvia.clientes-web.com/en/login.php 11*
 
 www.es-triodosbank-clientes.com/login
 www.triodosbank-es-clientes.com/login
@@ -617,6 +670,7 @@ es.triodosbank-compras.com 2*
 www.triodosbank-empresas-es.com/login 4*
 www.triodosbank-apps.com/login 10*
 www.triodosbank-aviso.com/login 10*
+www.app-triodosbank.com/login 11*
 
 caixaontinyent-info.com/inicio-sesion.php
 
@@ -625,6 +679,7 @@ es.bancopichincha-inicio.com/main 2*
 es.bancopichincha-clientes.com/main 2*
 es.bancopichincha-inicios.com/main 2*
 www.bancopichincha-app.com/es/main 10*
+www.inicio-bancopichincha.com/es/main 11*
 
 evobanco.es-evo-inicios.com/login 2*
 www.evobanco-es-incidencias.com/login 2*
@@ -660,6 +715,7 @@ www.app-evobanco-cliente.com/_es/login 8*
 www.app-evobanco-clientes.com/_es/login 8*
 evobanco.es-inicios-evo.com 8*
 evobanco.es-apps-evo.com/app/login 9*
+www.evobanco-inicio-apps.com/es/login 11*
 
 www.unicajabanco-esp.com/login 2*
 es.unicajabanco-inicios.com/login 2*
@@ -680,6 +736,8 @@ www.unicaja-app-seguridad.com 9*
 es.unicaja-info-inicio.com/app/login 9*
 unicaja.es-univia-app.com/es/login 10*
 unicaja.es-univia-web.com/es/login 10*
+unicaja.univia-inicio.com/es/login 11*
+unicaja.es-univia.com/app/login 11*
 
 app-deutschebank-info.com/home.php 2*
 app-deutschebank.com/home.php 2*
@@ -712,6 +770,11 @@ deutschebank-gestion.com/login.php 3*
 gestiones-deutschebank.com/login.php 3*
 es-deutschebank-clientes.com/login.php 4*
 deutsche.es-inicio-gestiones.com 10*
+es-deutsche-bank.com 11*
+www.deutsche-bank-app.com/es/login 11*
+www.deutsche-bank-inicio.com/es/login 11*
+www.deutsche-bank-web.com/es/login 11*
+inicio-deutschebank.com 11*
 
 es.lbercaja-clientes.com/login 2*
 es.lbercaja-incidencias.com/login 3*
@@ -726,6 +789,14 @@ info-oficina.com/login 10*
 www.cbnk-web.com/es/login 10*
 www.cbnk-esp.com/es/login 10*
 www.cbnk-apps.com/es/login 10*
+www.cbnk-seguridad.com/es/login 11*
+www.cbnk-inicios.com/es/login 11*
+www.cbnk-inicio.com/es/login 11*
+www.cbnk-avisos.com/es/login 11*
+es-cbnk-inicio.com 11*
+www.es-cbnk-soporte.com/es/login 11*
+es.inicio-cbnk.com/es/login 11*
+es.inicios-cbnk.com/es/login 11*
 
 info-cliente.com/login 10* myandbank
 info-operativo.com/login 10*
@@ -777,6 +848,10 @@ www.cajamar-clientes-app.com/es/home 10*
 www.cajamar-inicio-apps.com/es/home 10*
 www.es-cajamar-web.com/es/home 10*
 www.cajamar-app-avisos.com/es/home 10*
+www.cajamar-es.com/es/home 11*
+www.cajamar-cajarural.com/es/home 11*
+www.inicio-cajamar-app.com/es/home 11*
+www.cajamar-app-info.com/es/home 11*
 
 bancofar-clientes.com/inicio-sesion.php 3*
 
@@ -789,8 +864,10 @@ www.es-imaginbank.com 9*
 www.imagin-app.com/es/home.php 10*
 www.imagin-app-inicios.com/es/home.php 10*
 www.imagin-web.com/es/home.php 10*
+www.app-imagin.com/es/home.php 11*
 
 movil-cajalnet.com/inicio-sesion.php 3*
+cajalnet-acceso.com/en/login.php 11*
 
 movil-n26.com/inicio-sesion.php 3*
 
@@ -910,10 +987,29 @@ www.ing-web-info.com/es/login 10*
 www.lng-es-app.com/es/login 10*
 www.ing-avisos-app.com/es/login 10*
 www.ing-cliente-app.com/es/login 10*
+www.es-lng-app.com 11*
+www.ing-app-aviso.com/es/login 11*
+ing-app-web.com 11*
+seguridad.ing-soporte.com 11*
+ing-clientes-inicios.com 11*
+seguridad.ing-portal-particulares.com 11*
+www.lng-web-app.com/es/login 11*
+www.lng-apps-web.com/es/login 11*
+www.lng-info-app.com/es/login 11*
+www.lng-app-inicios.com/en/login 11*
+www.lng-soporte-inicio.com/es/login 11*
+www.ing-info-app.com/es/login 11*
+www.lng-app-avisos.com/es/login 11*
+www.ing-web-app.com/en/ 11*
+direct-persona.com/login 11*
 
 www.clientescetelem.com 3*
+cetelem-cancelaciones.com 11*
 
 movil-gestion.com/login 10* moneygo
+info-particular.com/login 11*
+
+es-bnex.com/login 11* bnext
 
 clientes-colonya.com/inicio-sesion.php 4*
 es-colonya-app.com/inicio-sesion.php 4*
@@ -989,6 +1085,7 @@ correosradio.sbs 8*
 correospotes.top 9*
 correos-es.makeup 9*
 correospote.top	9*
+www.es-correos-aduanas.com/home 11*
 
 suivi-gestioncolis.info 2* dhl
 
@@ -1030,3 +1127,19 @@ repsolmall.com 7*
 CHILE 2024
 
 cl.bancofalabella-soportes.com/home 10*
+cl.bancofalabella-seguridad.com/home 11*
+
+www.cl-tarjeta-cencosud.com 11*
+
+PORTUGAL 2024
+
+caixaparticular.com 11*
+cgd-caixadirectapp.com 11*
+cgd-caixadirectapt.com 11*
+cgd-caixadirectaapp.com 11*
+cgd-caixadirectaonline.com 11*
+caixageral-cgd.com 11*
+caixadirectapt-cgd.com 11*
+caixageral-online.com 11*
+caixaonline-cgd.com 11*
+cgd-caixaonline.com 11*
