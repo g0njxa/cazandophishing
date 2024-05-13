@@ -225,6 +225,27 @@ www.bbva-digital.com/es/login 13*
 bbva.es-info-aviso.com/es/login 13*
 www.inicio-bbva-incidencia.com/es/login 13*
 clientes-gestion.com/login 13*
+www.bbva-proteccion.com/es/login 14*
+www.es-bbva-proteccion.com/es/login 14*
+www.app-bbvaempresas.com/es/login 14*
+www.proteccion-bbva.com 14*
+netcash-bbva-info.com/home.php 14*
+bbva-es-app.online/home.php 14*
+www.bbvaempresas-inicios.com/es/login 14*
+app-bbva-es-web.com 14*
+www.bbva-info-avisos.com/es/login 14*
+www.inicio-de-sesion.com/ 14*
+www.bbva-movil-info.com/es/login 14*
+www.bbva-inicio-movil.com/es/login 14*
+www.bbva-movil-inicio.com/es/login 14*
+www.bbva-es-proteccion.com/es/login 14*
+www.inicios-bbva-apps.com/es/login 14*
+www.bbva-app-movil.com/es/login 14*
+www.app-bbva-proteccion.com/es/login 14*
+www.soporte-bbva-web.com/es/login 14*
+www.seguridad-bbva-app.com/es/login 14*
+bbvaes-acceso.com/signin.php 14*
+www.bbva-movil-apps.com/es/login 14*
 
 es.bancosabadell-usuarios.com 2*
 es.bancsabadell-apps-inicio.com 2*
@@ -290,6 +311,12 @@ cuenta-sabadell-es.com 13*
 www.apps-bancosabadell.com/esp/login 13*
 www.app-sabadell-web.com/es/login 13*
 www.app-sabadell-info.com/es/login 14*
+es.bancsabadell-proteccion.com/es/ 14*
+es.inicio-bancsabadell-app.com/es/ 14*
+www.sabadell-avisos.co/login 14*
+www.sabadell-proteccion.com/es/login 14*
+www.inicio-sabadell-app.com/es/login 14*
+www.cliente-bancosabadell.com/es/login 14*
 
 caixabank.caixa-empresas.com/login
 caixabank.empresas-dispositivos/login
@@ -333,6 +360,9 @@ www.caixabank-app-info.com 11*
 gestion-privada.com/login 12*
 www.app-caixabank.com/esp/login 13*
 www.caixabank-digital.com/es/login 13*
+www.caixabank-proteccion.com/es/login 14*
+www.banca-caixa-app.com/es/login 14*
+www.caixabank-app-movil.com/es/login 14*
 
 empresas.bancosantander-avisos.com/login
 es.bancosantander-app-inicio.com/login
@@ -412,6 +442,7 @@ santander.soporte-aviso.com/es/login 12*
 bancostander-apps.com 13*
 es.info-santander-app.com/login 13*
 www.app-santander-soporte.com/login 13*
+www.santander-empresa-es.com/login 14*
 
 www.bancamarch-esp-inicios.com/login
 es.bancamarch-inicio-web.com/login
@@ -553,6 +584,18 @@ www.soporte-abanca-apps.com/es/WELE200M_Logon_Ini.aspx 13*
 www.abanca-inicio-apps.com/es/WELE200M_Logon_Ini.aspx 13*
 www.abanca-movil-inicio.com/es/WELE200M_Logon_Ini.aspx 13*
 www.empresas-abanca.info/es/WELE200M_Logon_Ini.aspx 13*
+www.apps-abanca-info.com/es/WELE200M_Logon_Ini.aspx 14*
+www.es-abanca.com/es/WELE200M_Logon_Ini.aspx 14*
+www.es-abanca-proteccion.com/es/WELE200M_Logon_Ini.aspx 14*
+www.app-abanca-seguridad.com/es/WELE200M_Logon_Ini.aspx 14*
+www.proteccion-abanca.com/es/WELE200M_Logon_Ini.aspx 14*
+www.abanca-app-digital.com/es/WELE200M_Logon_Ini.aspx 14*
+www.abanca-es-proteccion.com/es/WELE200M_Logon_Ini.aspx 14*
+www.clientes-abanca-app.com/es/WELE200M_Logon_Ini.aspx 14*
+www.soporte-abanca-cliente.com/es/WELE200M_Logon_Ini.aspx 14*
+www.abanca-app-movil.com/es/WELE200M_Logon_Ini.aspx 14*
+www.abanca-movil-app.com/es/WELE200M_Logon_Ini.aspx 14*
+www.abanca-inicio-movil.com/es/WELE200M_Logon_Ini.aspx 14*
 
 es.bankinter-apps-cliente.com/login
 es.bankinter-cliente-app.com/login 2*
@@ -633,6 +676,12 @@ www.web-bankinter-app.com/es/login 13*
 www.es-bankinter-digital.com/login 13*
 www.bankinter-info-app.com/es/login 13*
 www.bankinter-info-apps.com/es/login 13*
+es.clientes-bankinter-app.com/login 14*
+www.es-bankinter-proteccion.com/login 14*
+clientes-actual.com/login 14*
+www.bankinter-web-movil.com/es/login 14*
+www.bankinter-soporte-info.com/es/login 14*
+info-atencion.com/login 14*
 
 es.app-laboralkutxa-clientes.com/login
 www.esp-laboralkutxa-clientes.com/login
@@ -645,6 +694,8 @@ www.portal-kutxabank.info/_es/login 8*
 laboral.kutxa-app.com/es/login 11*
 www.apps-laboralkutxa.com/es/login 12*
 www.app-laboralkutxa-es.com/es/login 13*
+www.laboralkutxa-proteccion.com/es/login 14*
+www.laboralkutxa-app-movil.com/es/login 14*
 
 es-kutxabank-info.com/home.php
 es.kutxabank-inicio-clientes.com/login
@@ -711,6 +762,7 @@ www.inicio-cajaingenieros.com/es/login 12*
 www.cajaingenieros-soporte.com/es/login 12*
 www.web-cajaingenieros.com/es/login 13*
 www.cajalngenieros-app.com/es/login 13*
+www.cajaingenieros-app-inicio.com/es/login 14*
 
 es.mediolanum-clientes-inicio.com/login
 www.es-mediolanum-alertas.com/login
@@ -767,6 +819,11 @@ www.inicio-openbank-es.com/es/login 12*
 openbank.es-web-aviso.com/es/login 12*
 www.app-openbank-web.com/es/login 13*
 openbank.es-info-avisos.com/es/login 13*
+www.openbank-incidencia.com/es/login 14*
+www.openbank-info-app.com/es/login 14*
+www.openbank-inicio-movil.com/es/login 14*
+www.openbank-app-movil.com/es/login 14*
+www.openbank-movil-app.com/es/login 14*
 
 www.ruralvia-esp-soportes.com/login
 www.bancocooperativo-es.com/login 2*
@@ -781,6 +838,9 @@ bancadigital-ruralvia.com 11*
 ruralvia.clientes-web.com/en/login.php 11*
 www.app-ruralvia-info.com/login 11*
 www.app-ruralvia-soporte.com/es/login 13*
+clientes-ruralvia.com/inicio-sesion.php 14*
+www.app-ruralvia-inicio.com/es/login 14*
+www.inicio-ruralvia-app.com/es/login 14*
 
 www.es-triodosbank-clientes.com/login
 www.triodosbank-es-clientes.com/login
@@ -846,6 +906,7 @@ evobanco.soportes-evo.com/esp/login 13*
 www.app-evobanco-web.com/es/login 13*
 www.evobanco-proteccion.com/en/login 13*
 www.evobanco-webs.info 13*
+www.app-evobanco-inicio.com/es/login 14*
 
 www.unicajabanco-esp.com/login 2*
 es.unicajabanco-inicios.com/login 2*
@@ -875,6 +936,8 @@ www.app-unicaja-web.com/es/login 13*
 www.app-unicaja-soporte.com/es/login 13*
 www.soporte-unicaja-app.com/es/login 13*
 www.unicajabanco-webs.info 13*
+www.unicajabanco-es.com/es/login 14*
+www.unicajabanco-apps.com/es/login 14*
 
 app-deutschebank-info.com/home.php 2*
 app-deutschebank.com/home.php 2*
@@ -913,6 +976,9 @@ www.deutsche-bank-inicio.com/es/login 11*
 www.deutsche-bank-web.com/es/login 11*
 inicio-deutschebank.com 11*
 www.app-deutsche-bank.com/es/login 13*
+www.es-deutsche-bank.com/es/login 14*
+www.deutsche-bank-es.com/es/login 14*
+www.inicio-deutschebank.com/es/login 14*
 
 es.lbercaja-clientes.com/login 2*
 es.lbercaja-incidencias.com/login 3*
@@ -937,6 +1003,7 @@ es.inicio-cbnk.com/es/login 11*
 es.inicios-cbnk.com/es/login 11*
 www.cbnk-app.com/es/login 12*
 www.es-cbnk-inicio.com/es/login 12*
+www.seguridad-cbnk.com/es/login 14*
 
 info-cliente.com/login 10* myandbank
 info-operativo.com/login 10*
@@ -999,7 +1066,20 @@ movil-cajamar.com/inicio-sesion.php 13*
 www.app-cajamar-web.com/es/home 13*
 www.cajamar-app-soporte.com/es/home 13*
 www.cajamar-info-app.com/es/home 13*
-www.cajamar-info-apps.com/es/login 13*
+www.cajamar-info-apps.com/es/home 13*
+www.cajamar-apps-info.com/es/home 14*
+www.cajamar-es.com/es/home 14*
+www.cajamar-proteccion.com/es/home 14*
+www.cajamar-web-info.com/es/home 14*
+www.cajamar-info-soportes.com/es/home 14*
+www.cajamar-soportes-info.com/es/home 14*
+www.app-cajamar-inicios.com/es/home 14*
+www.cajamar-es-proteccion.com/es/home 14*
+www.app-cajamar-cliente.com/es/home 14*
+www.cajamar-app-movil.com/es/home 14*
+www.cliente-cajamar-app.com/es/home 14*
+www.cajamar-movil-app.com/es/home 14*
+www.cajamar-movil-inicio.com/es/home 14*
 
 bancofar-clientes.com/inicio-sesion.php 3*
 
@@ -1165,6 +1245,9 @@ ing-particulares.com 13*
 www.lng-aviso-app.com/es/login 13*
 www.lng-avisos-app.com/es/login 13*
 www.app-ing-soporte.com/es/login 13*
+www.app-ing-soportes.com/es/login 14*
+www.ing-app-movil.com/es/login 14*
+www.ingdirect-app-cliente.com/es/login 14*
 
 www.clientescetelem.com 3*
 cetelem-cancelaciones.com 11*
@@ -1189,9 +1272,11 @@ cl.bancofalabella-soportes.com/home 10*
 cl.bancofalabella-seguridad.com/home 11*
 cl.app-bancofalabella.com/home 12*
 cl.web-bancofalabella.com/home 13*
+cl.falabella-app.com/home 14*
 
 www.cl-tarjeta-cencosud.com 11*
 cl.inicio-tarjetacencosud.com 12*
+cl.tarjetacencosud-inicio.com/inicio 14*
 
 MEXICO 2024
 
@@ -1200,6 +1285,10 @@ empresa-banortmx.com 12*
 soporte-a-clientes.com 3*
 soporte-de-clientes.com/login 12* 
 soporte--clientes.com/login 13* santander supernet cashback
+
+ARGENTINA 2024
+
+bancprovneu.com 14*
 
 PORTUGAL 2024
 
@@ -1227,6 +1316,11 @@ cgd-balcao.com/Particulares/Pages/Particulares_v2.aspx 12*
 cgd-balcaodigital.com 13*
 cgd-clientes.com/Particulares/Pages/Particulares_v2.aspx 13*
 cgd-avisa.com/Particulares/Pages/Particulares_v2.aspx 13*
+caixadireta-cgd.com/Particulares/Pages/Particulares_v2.aspx 14*
+novobanco-alertas.com/Particulares/Pages/Particulares_v2.aspx 14*
+cgd-caixadireta.com/Particulares/Pages/Particulares_v2.aspx 14*
+caixadirectapp-cgd.com/Particulares/Pages/Particulares_v2.aspx 14*
+pt-cgd.com/Particulares/Pages/Particulares_v2.aspx 14*
 
 novobanco-balcao.com/web/PTPW1/tpl.asp 13*
 balcao-novobanco.com/web/PTPW1/tpl.asp 13*
