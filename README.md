@@ -1,3 +1,5 @@
+AUN EN DESARROLLO, !!!
+
 El fraude bancario en España ha alcanzado niveles de actividad preocupantes durante los últimos meses. La amenaza no cesa y es por esto que se inició este proyecto para de alguna manera detectar y archivar esta actividad fraudulenta.
 
 Siendo el "smishing" el principal punto de partida para desarrollar el fraude, es muy importante detectar lo antes posible los dominios sirviendo estos phishing suplantando las principales entidades bancarias del estado español.
