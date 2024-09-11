@@ -552,6 +552,20 @@ bbvasoporte-login.com/es/login.php 30*
 bbva.cliente-login.com/login.php 30*
 bbvasoporte-cliente.com/es/login.php 30*
 bbva.apps-login.com/es/login.php 30*
+bbva-gestiones.com/es/login.php 31*
+login-bbvasoporte.com/es/login.php 31*
+login-bbvaclientes.com/es/login.php 31*
+login-bbvasoportes.com/es/login.php 31*
+inicio-bbvaseguridad.com/es/login1.php 31*
+online-bbvasoporte.com/es/login1.php 31*
+ayuda-bbvaclientes.com/es/login.php 31*
+www.bbvagestiones.com/es/login.php 31*
+bbvasoportes-login.com/es/login1.php 31*
+apps-bbvasoporte.com 31*
+bbva-ayuda1.com 31*
+clientes-bbvasoportes.com 31*
+login-bbvaseguridad.com 31*
+inicio-bbvaproteccion.com 31*
 
 es.bancosabadell-usuarios.com 2*
 es.bancsabadell-apps-inicio.com 2*
@@ -666,6 +680,10 @@ www.es-bancosabadell.app/login 27*
 es.sabadell-cliente.com/login 29*
 www.online-sabadell.com/login 29*
 bancsabadell-login.com/es/logins 30*
+login-bancsabadell.com/es/logins 31*
+bancosabadell-login.com/es/logins 31*
+login-bancosabadell.com 31*
+proteccion-bancsabadell.com 31*
 
 caixabank.caixa-empresas.com/login
 caixabank.empresas-dispositivos/login
@@ -842,6 +860,9 @@ caixabank-clientes.com/es/login 30*
 www.ayuda-caixa.com/es/logins 30*
 www.usuarios-caixa.com/es/login 30*
 www.caixa-usuarios.com/es/login 30*
+caixaseguridad-app.com 31*
+caixacliente-inicio.com 31*
+inicio-caixabank.info 31*
 
 empresas.bancosantander-avisos.com/login
 es.bancosantander-app-inicio.com/login
@@ -1020,6 +1041,16 @@ bancosantander-login.com/es/logins 30*
 incidencia-santander.com/es/logins 30*
 bancosantander-activar.com 30*
 clientes-santander.com/es/logins 30*
+santander-atencion.com/es/logins 31*
+bancsantander.com/es/logins 31*
+bancsantander-inicio.com/es/logins 31*
+bancsantander-app.com/es/logins 31*
+incidencias-santander.com/es/logins 31*
+bancsantander-online.com/es/logins 31*
+bancsantander-soporte.com/es/logins 31*
+bancosantander-app.com/es/logins 31*
+bancsantander-cliente.com 31*
+proteccion-santander.com 31*
 
 www.bancamarch-esp-inicios.com/login
 es.bancamarch-inicio-web.com/login
@@ -1268,6 +1299,12 @@ usuario-abanca.com/es/WELE200M_Logon_Ini.aspx 29*
 inicio-abancaclientes.com/es/WELE200M_Logon_Ini.aspx 30*
 www.clientes-abanca.com/es/WELE200M_Logon_Ini.aspx 30*
 www.login-abanca.com/es/WELE200M_Logon_Ini.aspx 30*
+abancasoporte-login.com/es/WELE200M_Logon_Ini.aspx 31*
+abancaclientes-login.com/es/WELE200M_Logon_Ini.aspx 31*
+login-abancaclientes.com/es/WELE200M_Logon_Ini.aspx 31*
+abancaseguridad-app.com 31*
+www.app-abancaclientes.com 31*
+incidencias-abanca.com 31*
 
 es.bankinter-apps-cliente.com/login
 es.bankinter-cliente-app.com/login 2*
@@ -1391,6 +1428,7 @@ es.ayuda-bankinter.com/login 28*
 es.bankintercard-web.com/login 30*
 www.es-bankintercard.com/login 30*
 soporte-bankinter.com/es/login 30*
+bankintercliente-login.com/es/login1 31*
 
 es.app-laboralkutxa-clientes.com/login
 www.esp-laboralkutxa-clientes.com/login
@@ -1535,6 +1573,9 @@ eurocaja-notificacion.com/es/login 30*
 www.usuario-eurocaja.com/es/login 30*
 dispositivo-eurocaja.com/es/login 30*
 www.login-eurocaja.com/es/login 30*
+eurocajamovil.com/es/logins 31*
+eurocaja-gestiones.com/es/logins 31*
+proteccion-eurocaja.com 31*
 
 es.cajasur-app-cliente.com/login
 cajasur-clientes-es.com 6*
@@ -1552,6 +1593,7 @@ www.es-cajasur-app.com/en/login 19*
 cajasur-clientes-info.com/home.php 19*
 www.clientes-cajasur.com/es/login 27*
 es.empresa-cajasur.me/home.php 28*
+cajasur-login.com/es/login 31*
 
 es.cajalngenieros-inicio.com/login
 www.cajalngenieros-inicio-es.com/login
@@ -1827,6 +1869,8 @@ www.triodos-aviso.com/logins 29*
 online-triodosbank.com/es/logins 30*
 www.login-triodos.com/es/logins 30*
 es.triodosbank-login.com/logins 30*
+www.triodoscliente.com/es/logins 31*
+triodosbank-es.app 31*
 
 caixaontinyent-info.com/inicio-sesion.php
 www.caixaontinyent.app/login 27*
@@ -1983,6 +2027,9 @@ es.cliente-evobanco.com/login 29*
 evobanco-seguridad.com/login 29*
 evobanco.evo-usuario.com/es/login 30*
 www.login-evobanco.com/es/login 30*
+evobanco.es-formulario.com 31*
+evobanco.es-pagos-retenidos.com 31*
+evobanco-login.com/es/login 31*
 
 www.unicajabanco-esp.com/login 2*
 es.unicajabanco-inicios.com/login 2*
@@ -2098,6 +2145,7 @@ deutschbank-seguridad.com/login 29*
 cliente-deutschbank.com/login 29*
 es.soporte-deutschbank.com/login 29*
 deutschbank-login.com/es/login 30*
+login-deutschbank.com/es/login 31*
 
 es.lbercaja-clientes.com/login 2*
 es.lbercaja-incidencias.com/login 3*
@@ -2121,6 +2169,12 @@ www.soportes-ibercaja.com/es/login 30*
 www.ibercaja-login.com/es/login0 30*
 lbercaja-login.com/es/login0 30*
 ibercaja-app.com/es/login0 30*
+ibercajaclientes-inicio.com/es/login0 31*
+seguridad-lbercaja.com 31*
+soporte-lbercaja.com 31*
+lbercaja-incidencia.com 31*
+usuarios-ibercaja.com 31*
+proteccion-ibercaja.com 31*
 
 es-caixaguissona.com/home.php 2*
 
@@ -2335,6 +2389,9 @@ movil-n26.com/inicio-sesion.php 3*
 seguridad-paypal.com/app/home 28*
 www.soporte-es.shop/app/home 28*
 
+revolut-clientes.com/es/app 31*
+revolut-soporte.com/es/app 31*
+
 info-bancapueyo.com/home.php 6*
 clientes-bancapueyo.com/home.php 23*
 movil-bancapueyo.com/home.php 23*
@@ -2386,6 +2443,10 @@ wizink-incidencias.com/es/login0 30*
 incidencias-wizink.com/es/login0 30*
 wizink-login.com/es/login0 30*
 es.wizinksoporte.com/login0 30*
+inicio-wizink.info/es/login0 31*
+wizinksoporte-app.com/es/login0 31*
+login-wizink.com 31*
+wizinksoporte-login.com 31*
 
 www.lngdirect-movil-es.com/login 3*
 lng.direct-es-seguridad.com 3*
@@ -2692,6 +2753,11 @@ ingclientes-incidencias.com/es/login 30*
 soportes-ingcliente.com/es/login 30*
 ingclientes-login.com/es/login 30*
 ingsoportes-login.com/es/login 30*
+ingsoporte-ayuda.com/es/login 31*
+ingsoporte-login.com/es/login 31*
+login-ingclientes.com/es/login 31*
+login-ingcliente.com/es/login 31*
+ingseguridad-login.com 31*
 
 www.clientescetelem.com 3*
 cetelem-cancelaciones.com 11*
@@ -2711,3 +2777,4 @@ www.es-arquiabank-soporte.com/isum/main 4*
 www.arquia-web-clientes.com/isum/main 5*
 arquia.es-incidencia.com 17*
 arquia.soportes-online.com/en/login 22*
+arquiabank-login.com/es/login 31*
