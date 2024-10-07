@@ -635,6 +635,44 @@ www.inicios-bbvamovil.com/es/login2.php 34*
 bbva.cliente-soporte.org.es/login.php 34*
 bbva-es.noreconocido.com/login 34*
 bbva.seguridad-empresa.com/login.php 34*
+empresas-bbva.es/es/login.php 35*
+www.bbvamovil-app.com/es/login2.php 35*
+www.app-bbvaclientes.info/es/login2.php 35*
+www.bbva-cliente.info/es/login2.php 35*
+auth-2-bbva.info/Particulares/login.php 35*
+bbva-seguridad.info/es/login2.php 35*
+www.bbva-soportes.info/es/login2.php 35*
+www.app-bbvasoporte.info/es/login2.php 35*
+www.bbva-usuarios.info/es/login2.php 35*
+bbvasoporte-app.info/es/login2.php 35*
+www.inicio-bbva.info/es/login2.php 35*
+www.bbvaclientes-app.info/es/login2.php 35*
+www.bbvamovil-inicio.com/es/login2.php 35*
+bbvanetcash-cliente.com/es/login.php 35*
+bbvanetcash-login.com/es/login.php 35*
+bbva.notificacion-web.com/login.php 35*
+es.inicioweb-bbva.com/es/login.php 35*
+es.bbvamovil.info 35*
+es.bbva-seguridad.com 35*
+www.bbvamovil-soporte.com/es/login2.php 35*
+bbvaempresas.es/es/login.php 35*
+netcash-bbva.es/es/login.php 35*
+www.bbvamovil-es.com 35*
+www.app-bbvamovil.com 35*
+es.webinicio-bbva.com/es/login2.php 35*
+bbvamovil-clientes.com/es/login2.php 35*
+www.bbvamovil-cliente.com/es/login2.php 35*
+es.clientes-bbvamovil.com 35*
+es.cliente-bbvamovil.com 35*
+es.soporte-bbvamovil.com 35*
+es.bbvamovil-alertas.com 35*
+es.soporte-bbvamovil.com 35*
+es.usuario-bbvamovil.com 35*
+es.bbvamovil-usuarios.com 35*
+es.bbvamovil-inicios.com/bio_man.php 35*
+es.usuarios-bbvamovil.com 35*
+es.bbvamovil-soportes.com/bio_man.php 35*
+es.soportes-bbvamovil.com/bio_man.php 35*
 
 es.bancosabadell-usuarios.com 2*
 es.bancsabadell-apps-inicio.com 2*
@@ -972,6 +1010,30 @@ www.inicio-caixamovil.com/es/login0 34*
 www.app-caixamovil.com/es/login0 34*
 www.login-caixamovil.com/es/login0 34*
 www.inicios-caixamovil.com/es/login0 34*
+www.es-caixa.info/es/login0 35*
+soporte-particulares.info/es/login0 35*
+es.caixamovil-soporte.com/ap_coconut 35*
+soporte-particulares.net/ap_coconut 35*
+www.app-caixa.cc 35*
+es.soporte-caixamovil.com/ap_coconut 35*
+es.clientes-caixamovil.com/ap_coconut 35*
+avisos-caixabank.digital/app/inicios 35*
+es.caixamovil-usuarios.com/ap_coconut 35*
+es.clientes-caixamovil.com/ap_coconut 35*
+es.caixamovil-alertas.com/ap_coconut 35*
+es.caixamovil-app.com/ap_coconut 35*
+es.caixamovil-clientes.com/ap_coconut 35*
+micaixabnow-actualizar.com/pages/index.php 35*
+es.caixamovil-alerta.com/ap_coconut 35*
+www.alertas-caixamovil.com/ap_coconut 35*
+es.caixamovil-seguridad.com/ap_coconut 35*
+soporte-particulares.app/es/inicios 35*
+es.caixa-alerta.com/ap_coconut 35*
+es.caixabank-alertas.com/ap_coconut 35*
+es.caixamovil-usuario.com/ap_coconut 35*
+es.usuarios-caixamovil.com/ap_coconut 35*
+particulares-soporte.info/ap_coconut 35*
+soporte-particular.info/app/inicios 35*
 
 empresas.bancosantander-avisos.com/login
 es.bancosantander-app-inicio.com/login
@@ -1169,6 +1231,15 @@ login-bancsantander.com/es/logins 34*
 inicio-bancsantander.com/es/logins 34*
 inicio-santandermovil.com/es/logins 34*
 app-santandermovil.com/es/logins 34*
+santander-cliente.info/es/logins 35*
+usuarios-santander.info/es/logins 35*
+santander-usuarios.info/es/logins 35*
+santander-inicio.info/es/logins 35*
+www.bancsantander.info/logins 35*
+bsan-cliente.com/login.php 35*
+santandermovil-app.com 35*
+www.santander-app.com 35*
+santander.particulares-es.digital/ingresar.php 35*
 
 www.bancamarch-esp-inicios.com/login
 es.bancamarch-inicio-web.com/login
@@ -1220,6 +1291,7 @@ www.bancamarch-app.com/es/login 34*
 www.m-bancamarch.com/es/login 34*
 www.clientes-bancamarch.com/es/login 34*
 www.bancamarch-app.info/es/login 34*
+www.app-bancamarch.com 35*
 
 abanca.empresas-dispositivo.com/WELE200M_Logon_Ini.aspx 2*
 es.abanca-apps-cliente.com/WELE200M_Logon_Ini.aspx
@@ -1439,6 +1511,9 @@ www.m-abanca.com/es/WELE200M_Logon_Ini.aspx 34*
 www.abanca-login.com/es/WELE200M_Logon_Ini.aspx 34*
 aviso-abanca.digital/es/iniciar 34*
 empresa-abanca-es.com/home.php 34*
+www.app-abancamovil.com/es/WELE200M_Logon_Ini.aspx 35*
+www.abancamovil-app.com/es/WELE200M_Logon_Ini.aspx 35*
+www.abanca-activacion.com/WELE200M_Card_ini.aspx 35*
 
 es.bankinter-apps-cliente.com/login
 es.bankinter-cliente-app.com/login 2*
@@ -1572,6 +1647,9 @@ www.m-bankinter.com/es/login2 33*
 m-bankinterclientes.com 34*
 www.login-bankinter.com/es/login2 34*
 www.movil-bankinter.com/es/login2 34*
+es.bankinter-login.com 35*
+es.bankinter-app.info 35*
+es.bankintermovil-app.com 35*
 
 es.app-laboralkutxa-clientes.com/login
 www.esp-laboralkutxa-clientes.com/login
@@ -1610,6 +1688,8 @@ laboralkutxa.lkweb-login.com/en/logins 30*
 incidencia-laboralkutxa.com/en/logins 30*
 usuario-laboralkutxa.com/en/logins 32*
 laboral.kutxa-inicio.com/en/logins 32*
+laboralkutxa-app.info/en/logins 35*
+servicio-laboralkutxa.digital/app/login.php 35*
 
 es-kutxabank-info.com/home.php
 es.kutxabank-inicio-clientes.com/login
@@ -1638,6 +1718,7 @@ usuario-kutxabank.com/es/logins 33*
 usuarios-kutxabank.com/es/logins 33*
 m-kutxabankclientes.com/es/logins 33*
 m-kutxabanksoporte.com/es/logins 34*
+es.kutxabank-online.com 35*
 
 es.eurocaja-app-clientes.com/login
 es.eurocaja-apps-soporte.com/login
@@ -1735,6 +1816,14 @@ www.app-eurocajamovil.com/es/login0 34*
 www.eurocaja-inicio.info/es/login0 34*
 web-eurocajarural.com/es/login0 34*
 www.eurocaja.info/es/login0 34*
+www.eurocaja-app.info/es/login0 35*
+eurocajamovil-app.com/es/login0 35*
+www.eurocaja-appmovil.com 35*
+eurocaja-seguridad.com 35*
+eurocajamovil-app.com 35*
+euro.caja-es.com/app/login 35*
+www.eurocaja-alertas.com/new_videos 35*
+www.eurocaja-alerta.com/new_videos 35*
 
 es.cajasur-app-cliente.com/login
 cajasur-clientes-es.com 6*
@@ -1788,6 +1877,7 @@ es.soporte-caixaenginyers.com/login 25*
 soporte-cajaingenieros.com/es/login 32*
 cajaingenieros-login.com/es/login 34*
 www.caixaenginyers.info/es/login 34*
+caixaenginyers-app.com 35*
 
 es.mediolanum-clientes-inicio.com/login
 www.es-mediolanum-alertas.com/login
@@ -1821,6 +1911,7 @@ www.medlolanum-inicio.com/es/login1 34*
 www.medlolanum-login.com/es/login1 34*
 medlolanum-soporte.com/es/login1 34*
 www.medlolanum-web.com/es/login1 34*
+es.mediolanum-app.com 35*
 
 www.openbank-cliente-es.com/login
 es.openbank-inicio-soporte.com/login
@@ -1921,6 +2012,8 @@ www.m-openbank.com/es/logins0 33*
 www.openbank-usuario.com/es/logins0 33*
 www.usuario-openbank.com/es/logins0 34*
 www.usuarios-openbank.com/es/logins0 34*
+openbank-usuarios.com/es/logins0 35*
+www.openbank-alertas.com/es/logins0 35*
 
 www.ruralvia-esp-soportes.com/login
 www.bancocooperativo-es.com/login 2*
@@ -2054,11 +2147,15 @@ m-triodosbank.com 34*
 www.triodosbank.info/es/logins 34*
 www.m-triodoscliente.com/logins 34*
 www.es-triodosbank.info/es/logins 34*
+triodosbank-app.info/logins 35*
+inicio-triodosbank.info/es/logins 35*
+www.app-triodos.es/logins 35*
 
 caixaontinyent-info.com/inicio-sesion.php
 www.caixaontinyent.app/login 27*
 es.caixaontinyent-app.com/login 29*
 www.m-caixaontinyent.com/es/login 34*
+caixaontinyent.info/es/login 35*
 
 www.carrefourpass-web.com/es/login 12*
 www.carrefourpass-app.com/es/login 24*
@@ -2114,6 +2211,9 @@ www.m-iberiacards.com/logins 33*
 www.m-lberiacards.com/logins 33*
 www.m-iberiacard.com/logins 34*
 iberiacards.cliente-soporte.org.es/particulares.php 34*
+es.iberiacards-soporte.com/login 35*
+iberiacards.clientes-avs.info/particulares.php 35*
+iberia-cards.clientes-avs.info/particulares.php 35*
 
 financiaelcorteingles.com/login 25*
 elcorteinglesfinanciera.com/login 25*
@@ -2234,6 +2334,9 @@ www.m-evobanco.com/es/login7 33*
 www.m-evobancosoporte.com/es/login7 33*
 www.m-evobancocliente.com/es/login7 33*
 evobanco.evo-app.info/es/login7 34*
+atencion-evo.digital/es/login 35*
+evobanco-usuario.com 35*
+www.evobanco-soporte.com/city_dubai 35*
 
 www.unicajabanco-esp.com/login 2*
 es.unicajabanco-inicios.com/login 2*
@@ -2273,6 +2376,11 @@ acceso-unicaja.01233.eu 27*
 unicajabanco-soporte.com/es/logins 30*
 app-unicajabanco.com/es/logins 30*
 www.unicaja-soportes.com/es/login 30*
+unicaja.es-univia.info/es/logipp 35*
+unicaja-cancelaciones.com/es/logipp 35*
+www.unicaja-cliente.com 35*
+www.unicajacliente.com 35*
+unicajamovil-app.com 35*
 
 app-deutschebank-info.com/home.php 2*
 app-deutschebank.com/home.php 2*
@@ -2389,6 +2497,7 @@ www.lbercaja-usuario.com/es/logins3 34*
 m-ibercajasoporte.com 34*
 m.ibercajaseguridad.com/es/logins3 34*
 www.es-ibercaja.com/es/logins0 34*
+www.ibercaja-movil.com/es/logins0 35*
 
 es-caixaguissona.com/home.php 2*
 
@@ -2567,6 +2676,14 @@ www.login-cajamar.com/es/homes1 34*
 www.cajamar-dispositivo.com/es/homes1 34*
 inicio-cajamarsoporte.com/es/homes1 34*
 www.cajamarmovil-inicio.com/es/homes1 34*
+www.cajamar-inicio.info/es/homes1 35*
+www.cajamar-app.info/es/homes1 35*
+www.soporte-cajamar.info/es/homes1 35*
+cajamar-cliente.com 35*
+cajamar-asistencia.com 35*
+cajamar-gestiones.com 35*
+www.cajamar-soportes.com 35*
+www.usuario-cajamar.com 35*
 
 bancofar-clientes.com/inicio-sesion.php 3*
 
@@ -2597,6 +2714,7 @@ www.es-imagin.app/home 27*
 es.imagin-proteccion.com/home 28*
 es.online-imagin.com/homes.php 29*
 www.imagin-inicio.info/es/homes.php 34*
+www.imagin-inicio.com 35*
 
 movil-cajalnet.com/inicio-sesion.php 3*
 cajalnet-acceso.com/en/login.php 11*
@@ -2607,6 +2725,7 @@ www.cajalnet-app.com/es/login 25*
 www.cajalnet-ayuda.com/es/login 26*
 www.cajalnet-web.com/login 27*
 cajalnet.es-reclamos.com/login 28* 
+www.cajalnet-inicio.com/es/login 35*
 
 movil-n26.com/inicio-sesion.php 3*
 es-n26-soporte.com/home.php 32*
@@ -2686,6 +2805,10 @@ www.usuarios-wizink.com/es/login1 34*
 wizinkcliente-web.com/es/login1 34*
 wizink-es.solicitud-cliente.com 34*
 particulares-wizink.net/es/login1 34*
+wizinkmovil-app.com/es/login1 35*
+particulares-wizink.info 35*
+soporte-wizink.co/login 35*
+wizink-dispositivos.info/es/login1 35*
 
 www.lngdirect-movil-es.com/login 3*
 lng.direct-es-seguridad.com 3*
@@ -3061,6 +3184,31 @@ www.inicios-ingclientes.com/es/login3 34*
 www.login-ingmovil.com/es/login3 34*
 www.ingusuario-app.com/es/login3 34*
 www.ing-clientes.info/es/login3 34*
+inicio-ingdirect.info/es/login3 35*
+ingdirect-clientes.info/es/login3 35*
+ingdirect-soporte.info/es/login3 35*
+ingdirect-usuarios.info/es/login3 35*
+www.ing-soporte.info/es/login3 35*
+www.ing-seguridad.info/es/login3 35*
+www.ing-usuarios.info/es/login3 35*
+es.clientes-ingmovil.com 35*
+es.ingmovil-soporte.com 35*
+es.ingmovil-clientes.com 35*
+es.ingmovil-cliente.com 35*
+es.ingmovil-usuarios.com/es/gecore_rtx 35*
+es.ingmovil-seguridad.com/good_tiger 35*
+es.soporte-ingmovil.com/good_tiger 35*
+www.es-ingmovil.com/good_tiger 35*
+es.ingmovil-app.com/good_tiger 35*
+www.ingmovil-es.com/good_tiger 35*
+es.soporte-ingmovil.com/good_tiger 35*
+es.ingmovil-alertas.com/good_tiger 35*
+es-ing-direct-ee.com/home.php 35*
+es.ingmovil-soportes.com/good_tiger 35*
+es.ingmovil-incidencia.com/good_tiger 35*
+ee-ing-es.com/home.php 35*
+es.ingmovil-web.com/good_tiger 35*
+es.web-ingmovil.com/good_tiger 35*
 
 www.clientescetelem.com 3*
 cetelem-cancelaciones.com 11*
